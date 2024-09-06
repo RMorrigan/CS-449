@@ -8,7 +8,7 @@ class CalculationTest {
 
 	@Test
 	public void testFindMax() {		
-		assertEquals(42, Calculation.findMax(new int[] {19,23,42,}));
+		assertEquals(42, Calculation.findMax(new int[] {19,23,42,38}));
 		
 	}
 	
